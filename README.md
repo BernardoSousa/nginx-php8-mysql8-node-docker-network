@@ -5,9 +5,8 @@ git clone [https://github.com/chrisdenmark84/nginx-php7.4-mysql8-node-docker-net
 
 move into nginx-stack-demo folder
 
-Ensure docker desktop has spun up. 
-
 run "docker compose up -d --build"
+
 wait ...
 
 create "public" folder within app folder
